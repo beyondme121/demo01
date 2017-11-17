@@ -1,6 +1,4 @@
-
+git remote add origin https://github.com/beyondme121/demo01.git
 git pull origin master --allow-unrelated-histories
-
-
 
 git无法pull仓库refusing to merge unrelated histories
